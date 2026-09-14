@@ -7,7 +7,7 @@ buyers, FPOs, mandis and agricultural commodities across India.
 
 ## 🚀 Working Prototype
 
-👉 [Open Kisan Connect Prototype](https://www.figma.com/make/7TzxVQMO1xfMsSS9zMGwG0/Kisan-Connect-Mobile-Prototype?fullscreen=1&t=Ikm41wQHxfbHWHjO-1&code-node-id=0-6)
+👉 [Open Kisan Connect prototype](https://www.figma.com/make/7TzxVQMO1xfMsSS9zMGwG0/Kisan-Connect-Mobile-Prototype?fullscreen=1&t=gFKiDMYC3KqEdXDd-1&code-node-id=0-6)
 
 ## ✨ Key Features
 
